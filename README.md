@@ -7,8 +7,8 @@ A basic script has been create to populate data in a fictional DW based in Sales
 To install and run the ETL, an environment folder is recommended:
 
 ```bash
-	python3 -m venv env
-	source env/bin/activate
+   python3 -m venv env
+   source env/bin/activate
 ```
 
 The following ENV variables are needed:
