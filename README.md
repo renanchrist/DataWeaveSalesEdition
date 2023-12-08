@@ -46,7 +46,7 @@ If the table already exists, the table will not be created.
 ## Usage
 
 ```python
-python src/main.py
+python main.py
 ```
 
 After to run the script, the tables should be populated.
