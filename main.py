@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from faker import Faker
 import random
 
-# Define Snowflake schema structure
+# Define star schema structure
 Base = declarative_base()
 
 class DimCustomers(Base):
